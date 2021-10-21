@@ -1,4 +1,3 @@
-﻿  z6.c
-D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z6.c(10,38): warning C4020: malloc: слишком много фактических параметров
-D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z6.c(27,9): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+﻿  add.c
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\add.c(31,24): warning C4090: return: разные квалификаторы "const"
   Praktikum_7.vcxproj -> D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Debug\Praktikum_7.exe
