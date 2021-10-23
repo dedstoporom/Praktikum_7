@@ -8,4 +8,8 @@ int strlength(const char*);
 char* strcpy(const char*);
 char* strcat(const char*, const char*);
 char* insert(const char*, const char*, int);
+void readArray(int*, int);
+void writeArray(int*, int);
+void sortHeapArray(int*,int);
+void sort(int*, int);
 #endif

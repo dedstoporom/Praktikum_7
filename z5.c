@@ -1,4 +1,3 @@
-#include<math.h>
 #include <malloc.h>
 #include "Head.h"
 char* strcat(const char* first, const char* second)

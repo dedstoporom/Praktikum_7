@@ -1,3 +1,4 @@
-﻿  add.c
-D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\add.c(31,24): warning C4090: return: разные квалификаторы "const"
+﻿  Praktikum_7.c
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\Praktikum_7.c(13,25): warning C4013: calloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\Praktikum_7.c(15,6): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
   Praktikum_7.vcxproj -> D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Debug\Praktikum_7.exe

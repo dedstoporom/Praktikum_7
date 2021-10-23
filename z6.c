@@ -1,4 +1,3 @@
-#include<math.h>
 #include <malloc.h>
 #include "Head.h"
 char* insert(const char* src, const char* str, int index)
