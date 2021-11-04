@@ -10,9 +10,9 @@ int main()
 	incrementHeapVariable();
 	printf("Enter massive size:");
 	scanf_s("%d",&masSize);
-	int* arr = (int*)calloc(5*(sizeof(int)));
-	sortHeapArray(arr,masSize);
-	free(arr);
+	
+	sortHeapArray(masSize);
+	
    st = delete(str, substr);
 	printf("%s\n", st);
 	st = strcpy(str);

@@ -1,4 +1,13 @@
 ﻿  Praktikum_7.c
-D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\Praktikum_7.c(13,25): warning C4013: calloc: нет определения; предполагается "extern" с возвратом типа "int"
-D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\Praktikum_7.c(15,6): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  z2.c
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z2.c(8,8): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+  z3.c
+  z4.c
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z4.c(5,45): warning C4020: malloc: слишком много фактических параметров
+  z5.c
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z5.c(7,38): warning C4020: malloc: слишком много фактических параметров
+  z6.c
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z6.c(9,38): warning C4020: malloc: слишком много фактических параметров
+D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Praktikum_7\z6.c(26,9): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
   Praktikum_7.vcxproj -> D:\Soft\Visual Studio 2019\Projects\Praktikum_7\Debug\Praktikum_7.exe
